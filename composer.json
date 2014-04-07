@@ -3,7 +3,7 @@
     "type": "library",
     "description": "php-resque worker pool manager",
     "keywords": [],
-    "homepage": "http://github.com/ebernhardson/php-resque-pool",
+    "homepage": "http://github.com/dedeiu/php-resque-pool",
     "license": "",
     "authors": [
         {
