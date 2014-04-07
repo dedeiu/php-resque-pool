@@ -1,5 +1,5 @@
 {
-    "name": "ebernhardson/php-resque-pool",
+    "name": "dedeiu/php-resque-pool",
     "type": "library",
     "description": "php-resque worker pool manager",
     "keywords": [],
